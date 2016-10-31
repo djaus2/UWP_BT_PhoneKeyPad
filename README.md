@@ -18,8 +18,8 @@ These projects are part of a larger suite of projects on [Codeplex: KeypArd](htt
 
 [Bluetooth Echo Sketch](http://embedded101.com/Blogs/David-Jones/entryid/760/Arduino-Bluetooth-Keypad-Utilities-Bluetooth-Echo-Sketch)  This Sketch is a slight modification of that published as a companion to the original General Bluetooth Serial App.
 
-[Event Keypad Sketch](http://embedded101.com/Blogs/David-Jones/entryid/761/Arduino-Bluetooth-Keypad-Utilities-Event-Keypad-Sketch) This Sketch scans a phone keypad using the Keypad library and detects key pressed, released and held events. The events generate a string that is sent serially denoting the event and key.
-
+[Event Keypad Sketch](http://embedded101.com/Blogs/David-Jones/entryid/761/Arduino-Bluetooth-Keypad-Utilities-Event-Keypad-Sketch) This Sketch scans a phone keypad using the Keypad library and detects key pressed, released and held events. The events generate a string that is sent serially denoting the event and key. Includes wiring up a phone keypad.
+ 
 [Soft Keypad Test UWP App](http://embedded101.com/Blogs/David-Jones/entryid/764/Arduino-Bluetooth-Keypad-Utilities-Soft-Keypad-Test-UWP-App) A simple app to test the KeypadUWPLib. Implements a keypad as part of the app, which when pressed actions the keypad events. Some limitations imposed by lack of KeyUp event with XAML Buttons. 
 
 [Keypad Events UWP Library](http://embedded101.com/Blogs/David-Jones/entryid/762/Arduino-Bluetooth-Keypad-Utilities-Keypad-Events-UWP-Library) An event driven Phone Keypad library. Includes KeyDown, KeyUp and KeyHoldling events to which event handlers can be attached in apps that use this library. Also includes a mechanism to fire those events from keypad scanning software. No hardware specific code though. These events mirror those events in the previous blog for the Arduino Keypad Event Scanning Sketch.  The next blog hooks the two up.
