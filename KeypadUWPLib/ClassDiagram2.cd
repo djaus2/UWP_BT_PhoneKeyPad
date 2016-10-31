@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KeypadUWPLib.Keypad">
+    <Position X="3.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAgAAAAAgAAAAAAAEAAAAAEAAAAEAAAAA=</HashCode>
+      <FileName>Keypad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KeypadUWPLib.KeypadEventArgs">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAQAAAAQ=</HashCode>
+      <FileName>KeypadEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KeypadUWPLib.IKeypad">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IKeypad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="KeypadUWPLib.KeypadActions">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>KeypadEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

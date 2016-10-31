@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BluetoothSerialLib.BluetoothSerial">
+    <Position X="18" Y="17.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BluetoothSerialLib.BluetoothSerial.PairedDeviceInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BluetoothSerialLib.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQgAACBAAqAAEAQgEAAQEAAACABIAAAAAACQAAAAAA=</HashCode>
+      <FileName>BluetoothSerialLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
