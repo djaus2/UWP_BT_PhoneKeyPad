@@ -10,7 +10,7 @@ Based upon the previous *Generic Bluetooth Serial* project, this suite of projec
 * *_A sample app that connects the BT class to the Arduino device, as well as implementing a delegate for each key._*
 
 ### Arduino Bluetooth Keypad Utilities
-These projects are part of a larger suite of projects on [Codeplex: KeypArd](https://keypard.codeplex.com/) and are discussed in greater detail on Embedded101.com:
+These projects are part of a larger suite of projects on [Codeplex: KeypArd](https://keypard.codeplex.com/) and are discussed in detail on Embedded101.com:
 
 [UWP and Arduino Keypad Library on Codeplex](http://embedded101.com/Blogs/David-Jones/entryid/760/Arduino-Bluetooth-Keypad-Utilities-Bluetooth-Echo-Sketch) Arduino sketches and UWP class libraries and apps, focused upon scanning a phone keypad as input (Bluetooth serial) to a UWP app running on a phone, desktop or IoT-Core device.
 
