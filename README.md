@@ -2,7 +2,7 @@
 Event driven sample Universal Windows Platform app that uses some custom UWP libraries to get keypresses from a Phone Keypad that is connected to an Arduino Uno. Connectivity is over Generic Bluetooth Serial.
 
 ## About
-Based upon the previous *Generic Bluetooth Serial* project, this suite of projects provides:
+Based upon the previous [Generic Bluetooth Serial](https://www.hackster.io/DavidJones/generic-serial-bluetooth-with-win-10-iot-core-rpi2-fcc4ca?ref=user&ref_id=16784&offset=1) project, this suite of projects provides:
 * An Arduino Uno event driven Sketch that captures a phone keypad events _(pressed,up and held)_ and forwards them as simple text over Bluetooth Serial
 * The Generic Bluetooth Serial UWP-Arduino connectivity as a UWP class library.
 * A UWP class library that connects to the Arduino device over the BT class, captures the keypad messages and generates events.
